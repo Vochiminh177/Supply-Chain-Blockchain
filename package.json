@@ -55,6 +55,7 @@
     "react-remove-scroll": "^2.6.3",
     "seq-queue": "^0.0.5",
     "sqlstring": "^2.3.3",
+    "tailwind-merge": "^3.3.0",
     "tls": "^0.0.1"
   },
   "devDependencies": {
